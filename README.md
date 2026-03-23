@@ -1,3 +1,10 @@
+## Acknowledgment
+
+This repository is based on:
+https://github.com/callummcdougall/ARENA_3.0
+
+I am working through the exercises and adding my own solutions. The rest of the README is identical to the original one.
+
 ### ARENA [slack channel](https://join.slack.com/t/arena-uk/shared_invite/zt-3d3sro2sn-lACCkkoA3Sjm8J0pvWSaGQ)
 
 * Please report any errors/concerns with the material in #errata.
